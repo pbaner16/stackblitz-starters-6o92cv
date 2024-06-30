@@ -1,0 +1,11 @@
+{
+  "name": "Echo Chamber",
+  "version": "1.00",
+  "description": "This is a tool used to help users figure out if the content they are viewing is an echo chamber or not.",
+  "manifest_version":3,
+  "author": "Poulomi Banerjee",
+  "action": {
+    "default_popup":"index.html",
+    "default_title": "Echo Chamber"
+  }
+}
